@@ -53,13 +53,15 @@ Here is a step-by-step procedure:
 1. **Safety First**: Ensure that the oven is turned off and completely cool before you begin the cleaning process. 
 2. **Preparation**: Remove all oven racks, thermometers, and any other removable parts from the oven.
 3. **Cleaning Solution**: Prepare a cleaning solution. You can use a commercial oven cleaner or make a homemade solution. For a homemade solution, mix half a cup of baking soda with a few tablespoons of water to create a spreadable paste.
-4. **Application**: Spread the cleaning solution or paste evenly throughout the oven interior, avoiding the heating elements. You can use a paintbrush or a cloth for this. 
-5. **Waiting Period**: Let the cleaning solution sit for at least 12 hours or overnight. This allows the solution to break down the grime and grease.
-6. **Cleaning**: After the waiting period, take a damp cloth and wipe out as much dried baking soda paste as you can. Use a plastic or silicone spatula to scrape off the paste as needed.
-7. **Rinsing**: Put a little vinegar in a spray bottle and spritz everywhere you still see baking soda residue in the oven. The vinegar will react with the baking soda and gently foam.
-8. **Final Wipe Down**: Do a final wipe down. Repeat the rinsing and wiping process until all the baking soda residue is gone. Add more water or vinegar to your cloth as needed.
-9. **Cleaning Oven Racks**: Clean the oven racks with warm, soapy water and a heavy-duty scrub pad. Rinse and dry them thoroughly before placing them back in the oven.
-10. **Reassembly**: Once everything is clean and dry, you can replace the oven racks and any other parts you removed.
+4. **Application**: Spread the cleaning solution or paste evenly throughout the oven interior, avoiding the heating elements. You can use a paintbrush or a cloth for this.
+   ![image](https://github.com/United-Home/200-Henrietta/assets/61100293/a036d479-0194-4253-9466-547a439c18a3)
+   https://www.manua.ls/whirlpool/super-capacity-465/manual?p=13
+6. **Waiting Period**: Let the cleaning solution sit for at least 12 hours or overnight. This allows the solution to break down the grime and grease.
+7. **Cleaning**: After the waiting period, take a damp cloth and wipe out as much dried baking soda paste as you can. Use a plastic or silicone spatula to scrape off the paste as needed.
+8. **Rinsing**: Put a little vinegar in a spray bottle and spritz everywhere you still see baking soda residue in the oven. The vinegar will react with the baking soda and gently foam.
+9. **Final Wipe Down**: Do a final wipe down. Repeat the rinsing and wiping process until all the baking soda residue is gone. Add more water or vinegar to your cloth as needed.
+10. **Cleaning Oven Racks**: Clean the oven racks with warm, soapy water and a heavy-duty scrub pad. Rinse and dry them thoroughly before placing them back in the oven.
+11. **Reassembly**: Once everything is clean and dry, you can replace the oven racks and any other parts you removed.
 Remember, this process might need to be repeated for heavily soiled ovens. Always ensure your safety during the process by wearing gloves and ensuring good ventilation in your kitchen.
 
 Zee
