@@ -68,3 +68,16 @@ Here is a step-by-step procedure:
 Remember, this process might need to be repeated for heavily soiled ovens. Always ensure your safety during the process by wearing gloves and ensuring good ventilation in your kitchen.
 
 Zee
+---
+### Don't Cook on the Stovetop!
+
+No, it is not safe to use the stovetop while cleaning the oven. The oven can get very hot, and the cleaning products can be flammable. If you use the stovetop while cleaning the oven, you could start a fire.
+
+Here are some additional safety tips for cleaning your oven:
+
+* Always wear gloves when cleaning your oven. The oven can get very hot, and the cleaning products can be harmful to your skin.
+* Be sure to open a window or turn on the exhaust fan when cleaning your oven. The fumes from the cleaning products can be harmful if inhaled.
+* Never leave the oven unattended while you are cleaning it. The oven can get very hot and could start a fire if it is left unattended.
+* If you have a self-cleaning oven, be sure to read the instructions carefully before using the self-cleaning cycle. The self-cleaning cycle can get very hot, and it is important to follow the instructions to avoid damaging your oven.
+
+If you have any concerns about cleaning your oven, you can consult with a professional plumber or appliance repair technician.
