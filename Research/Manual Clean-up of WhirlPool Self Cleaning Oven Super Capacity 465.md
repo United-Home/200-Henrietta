@@ -1,5 +1,8 @@
 _Note: The research below is taken from Bard AI and Zee in Teams._
 
+Manual link: https://www.manua.ls/whirlpool/super-capacity-465/manual?p=14
+
+---
 To clean a Whirlpool Self Cleaning Oven Super Capacity 465 without the self-cleaning cycle, you will need to follow these steps:
 
 1. **Remove all racks and pans from the oven.**
